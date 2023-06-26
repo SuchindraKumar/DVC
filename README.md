@@ -1,4 +1,4 @@
-## , DVC (Data Version Control) is a tool that helps machine learning and data science teams manage and track their data, models, and experiments. It works alongside Git, which is a popular version control system for code files.
+##  DVC (Data Version Control) is a tool that helps machine learning and data science teams manage and track their data, models, and experiments. It works alongside Git, which is a popular version control system for code files.
 
 ## DVC is designed to solve the unique challenges of working with large datasets and machine learning models. It allows you to keep track of different versions of your data files, just like how Git tracks code changes. This means you can easily go back to previous versions of your data if needed.
 
