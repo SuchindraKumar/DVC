@@ -83,4 +83,4 @@ To run these commands from the command line, follow the steps below:
 
 17. Visit https://dvc.org/doc for more detailed documentation on DVC and its features.
 
-These steps will help you set up the necessary environment, initialize DVC, track files, and perform operations such as reproducing the pipeline, pushing changes, and more.
+These steps will help you set up the necessary environment, initialize DVC, track files, and perform operations such as reproducing the pipeline, pushing changes, and more.  
